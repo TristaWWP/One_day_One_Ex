@@ -4,7 +4,7 @@
 @Author      :    Wenping WANG
 '''
 """
-文件说明：使用aria2c迅速与并行线程下载油管视频
+文件说明：使用aria2c迅速与并行线程下载油管视频，需要翻墙，不能翻墙就尴尬了
 """
 import subprocess
 import sys
