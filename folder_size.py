@@ -33,5 +33,5 @@ print(fsizeList)
 if dir_size ==0:
     print("空文件夹")
 else:
-    for units in sorted(fsizeList)[::-1]:#倒序
+    for units in sorted(fsizeList)[::-1]:#倒序,::是全部包含，-1是倒序
         print("文件夹大小为:" + units)
